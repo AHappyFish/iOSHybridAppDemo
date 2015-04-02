@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5130613A-C8B7-4520-BF03-4DB63A72BEE6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iOSHybridAppDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E0F47EC9C74B89DD3964DC161A21455F71D687D1</key>
+		<string>https://github.com/AHappyFish/iOSHybridAppDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOSHybridAppDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E0F47EC9C74B89DD3964DC161A21455F71D687D1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AHappyFish/iOSHybridAppDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E0F47EC9C74B89DD3964DC161A21455F71D687D1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E0F47EC9C74B89DD3964DC161A21455F71D687D1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSHybridAppDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
